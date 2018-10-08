@@ -7,4 +7,4 @@ Simple calculator application written using C#.  The application has a total of 
 The application will take in two parameters and output the numbers either added, subtracted, multiplied, or divided. 
 
 ##View: 
-![alt txt](/images/calculator.jpg)
+![alt txt](/image/calculator.jpg)
